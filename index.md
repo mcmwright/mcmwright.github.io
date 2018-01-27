@@ -3,4 +3,4 @@
 Text text text.  
 More text
 
-Math? $E=mc^2$ 
+Math? $E=mc^2$ Apparently not, oh well.
